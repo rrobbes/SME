@@ -1,6 +1,6 @@
 # Change tasks for Micropolis
 
-This is a list of tasks to perform on Micropolis to practice the change process. The steps should be done in order, starting with Concept Location, then Impact analysis, etc.
+This is a list of tasks to perform on Micropolis to practice the change process. Micropolis is a clone of the famous game SimCity. The steps should be done in order, starting with Concept Location, then Impact analysis, etc.
 
 As for TinyUML, the build system to use is ant, with the `build.xml` file.
 
